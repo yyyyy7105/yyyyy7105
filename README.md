@@ -5,6 +5,10 @@ I took a one-year internship at HCL Commerce working with bash, Jenkins, docker 
 I am also doing some `casual` competitive programming out of my interest.
  
 Outside of coding stuff, I enjoying play piano, chopin and anison (in piano) are my favourite :D. I am also into badminton as well.
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+
+
 <!--
 **yyyyy7105/yyyyy7105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
