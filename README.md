@@ -1,8 +1,10 @@
 I am a fourth-year student at the University of Toronto St. George Campus majoring in computer science and mathematics. I am actively looking for full-time/intern SDE/SWE/backend roles starting at September 2024.
 
-I took a one-year internship at HCL Commerce working with bash, Jenkins, docker and Kubernetes. My responsibilities include conducting website testing for Kubernetes and Docker Compose deployments, automating tasks and improving user interface using Jenkins and shell scripts and collaborating effectively to enhance code functionality and performance. During my internship at HCL, I actively set up 5 Jenkins pipelines to serve multiple teams. 
+I took a one-year internship at HCL Commerce working with bash, Jenkins, docker and Kubernetes. My responsibilities include conducting website testing for Kubernetes and Docker Compose deployments, automating tasks and improving user interface using Jenkins and shell scripts and collaborating effectively to enhance code functionality and performance. 
 
-I am into competitive programming and eager to polish my coding and problem-solving skills. During my free time, I actively solve problems on LeetCode and CodeForces and attend contests.
+I am also doing some `casual` competitive programming out of my interest.
+ 
+Outside of coding stuff, I enjoying play piano, chopin and anison (in piano) are my favourite xD. I am also into badminton as well.
 <!--
 **yyyyy7105/yyyyy7105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
