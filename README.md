@@ -2,7 +2,7 @@ I am a fourth-year student at the University of Toronto St. George Campus majori
 
 I took a one-year internship at HCL Commerce working with bash, Jenkins, docker and Kubernetes. My responsibilities include conducting website testing for Kubernetes and Docker Compose deployments, automating tasks and improving user interface using Jenkins and shell scripts and collaborating effectively to enhance code functionality and performance. 
 
-I am also doing some `casual` competitive programming out of my interest.
+I also do some `casual` competitive programming out of my interest and continuely polishing my problem solving and coding skills on leetcode and codeforces!
  
 Other than coding stuff, I enjoying play piano, Chopin and anison (in piano) are my favourite :D. I am also into badminton as well.
 
