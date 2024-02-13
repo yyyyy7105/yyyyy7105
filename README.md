@@ -4,9 +4,9 @@ I took a one-year internship at HCL Commerce working with bash, Jenkins, docker 
 
 I am also doing some `casual` competitive programming out of my interest.
  
-Outside of coding stuff, I enjoying play piano, Chopin and anison (in piano) are my favourite :D. I am also into badminton as well.
+Other than coding stuff, I enjoying play piano, Chopin and anison (in piano) are my favourite :D. I am also into badminton as well.
 
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![](https://leetcard.jacoblin.cool/yyyyy7105?ext=contest)
 
 
 <!--
