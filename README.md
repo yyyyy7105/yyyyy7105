@@ -6,7 +6,7 @@ I am also doing some `casual` competitive programming out of my interest.
  
 Outside of coding stuff, I enjoying play piano, chopin and anison (in piano) are my favourite :D. I am also into badminton as well.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yyyyy7105)](https://leetcode.com/yyyyy7105)
+[![Leetcode Stats]([https://leetcard.jacoblin.cool/yyyyy7105](https://leetcard.jacoblin.cool/lapor?ext=contest))](https://leetcode.com/yyyyy7105)
 
 
 <!--
