@@ -1,10 +1,10 @@
 I am a fourth-year student at the University of Toronto St. George Campus majoring in computer science and mathematics. I am actively looking for full-time/intern SDE/SWE/backend roles starting at September 2024.
 
-I took a one-year internship at HCL Commerce working with bash, Jenkins, docker and Kubernetes. My responsibilities include conducting website testing for Kubernetes and Docker Compose deployments, automating tasks and improving user interface using Jenkins and shell scripts and collaborating effectively to enhance code functionality and performance. 
+I took a one-year internship at HCL Commerce, working with Bash, Jenkins, Docker, and Kubernetes. My responsibilities include conducting website testing for Kubernetes and Docker Compose deployments, automating tasks and improving user interfaces using Jenkins and shell scripts, and collaborating effectively to enhance code functionality and performance.
 
-I also do some `casual` competitive programming out of my interest and continuously polishing my problem solving and coding skills on leetcode and codeforces!
- 
-Other than coding stuff, I enjoying play piano, Chopin and anison (in piano) are my favourite :D. I am also into badminton as well.
+I also do some casual competitive programming out of interest and am continuously polishing my problem-solving and coding skills on LeetCode and CodeForces!
+
+Other than coding stuff, I enjoy playing piano; Chopin and Anison (in piano) are my favourite :D. I am also into badminton as well.
 
 ![](https://leetcard.jacoblin.cool/yyyyy7105?ext=contest)
 
