@@ -1,4 +1,4 @@
-I am a fourth-year student at the University of Toronto St. George Campus majoring in computer science and mathematics. I am actively looking for full-time/intern SDE/SWE/backend roles starting at September 2024.
+I am a student graduated from Bachelor's degree of Science at University of Toronto St. George Campus majoring in computer science and mathematics. I am actively looking for full-time/intern SDE/SWE/backend roles starting at September 2024.
 
 I took a one-year internship at HCL Commerce, working with Bash, Jenkins, Docker, and Kubernetes. My responsibilities include conducting website testing for Kubernetes and Docker Compose deployments, automating tasks and improving user interfaces using Jenkins and shell scripts, and collaborating effectively to enhance code functionality and performance.
 
