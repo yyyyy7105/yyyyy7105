@@ -1,10 +1,8 @@
-I am a student graduated from Bachelor's degree of Science at University of Toronto St. George Campus majoring in computer science and mathematics. I am actively looking for full-time/intern SDE/SWE/backend roles starting at September 2024.
+Thanks for stopping by my profile! I am currently a master's student (MScAC) at the University of Toronto St. George Campus, where I specialized in computer science. 
 
-I took a one-year internship at HCL Commerce, working with Bash, Jenkins, Docker, and Kubernetes. My responsibilities include conducting website testing for Kubernetes and Docker Compose deployments, automating tasks and improving user interfaces using Jenkins and shell scripts, and collaborating effectively to enhance code functionality and performance.
+As an LLM Application Engineer at Memect, I built scalable AI pipelines that transformed unstructured PDFs and websites into structured wiki pages. I optimized financial document extraction with FastAPI, vLLM, and MkDocs, boosting accuracy to 96%, reducing input size by 98%, and improving runtime by 75%. My work combined prompt engineering, system optimization, and deployment design to make large-language-model workflows both fast and reliable.
 
-I also do some casual competitive programming out of interest and am continuously polishing my problem-solving and coding skills on LeetCode and CodeForces!
-
-Other than coding stuff, I enjoy playing piano; Chopin and Anison (in piano) are my favourite :D. I am also into badminton as well.
+Previously, at HCL Technologies, I improved Docker/Kubernetes startup efficiency and automated CI/CD pipelines on GCP and Jenkins, cutting deployment time by 80%. I also worked at the Lee Language Lab, where I built a trilingual translation app with React Native, Firebase, and Node.js, serving over 300 users and processing 41 000 + requests. Outside of work, I’m an active competitive programmer who ranks in the Top 2% of all LeetCode contest participants globally, and I regularly compete on CodeForces to sharpen my algorithmic thinking.
 
 ![](https://leetcard.jacoblin.cool/yyyyy7105?ext=contest)
 
