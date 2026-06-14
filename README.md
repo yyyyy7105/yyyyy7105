@@ -1,4 +1,4 @@
-Thanks for stopping by my profile! I am currently a master's student (MScAC) at the University of Toronto St. George Campus, where I specialized in computer science. 
+Thanks for stopping by my profile! I am currently a master's student (MSc in Applied Computing) at the University of Toronto St. George Campus, where I specialized in computer science. 
 
 As an LLM Application Engineer at Memect, I built scalable AI pipelines that transformed unstructured PDFs and websites into structured wiki pages. I optimized financial document extraction with FastAPI, vLLM, and MkDocs, boosting accuracy to 96%, reducing input size by 98%, and improving runtime by 75%. My work combined prompt engineering, system optimization, and deployment design to make large-language-model workflows both fast and reliable.
 
